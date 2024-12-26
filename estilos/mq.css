@@ -56,3 +56,26 @@ Desktops grandes	        1441px ou mais
     }
     
 }
+
+@media screen and (min-width:1441px){
+
+    body {
+        background-image: linear-gradient(to top, #40ffdc, #1c3166);
+    }
+
+    #login {
+        width: 1010px;
+    }
+
+    #login >#img {
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    #login > #form {
+        float: right;
+        width: 50%;
+    }
+    
+}
