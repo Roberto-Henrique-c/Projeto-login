@@ -22,6 +22,7 @@ Desktops grandes	        1441px ou mais
     }
 
     #login > #img {
+        background-image: url(../imagens/logo2.jpg);
         float:left ;
         width: 30%;
         height: 100%;
@@ -45,6 +46,7 @@ Desktops grandes	        1441px ou mais
     }
 
     #login >#img {
+        background-image: url(../imagens/logo3.jpeg);
         float: left;
         width: 50%;
         height: 100%;
@@ -68,6 +70,8 @@ Desktops grandes	        1441px ou mais
     }
 
     #login >#img {
+        background-image: url(../imagens/logo.jpeg);
+        background-position: center center;
         float: left;
         width: 50%;
         height: 100%;
