@@ -38,6 +38,9 @@ main {
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.438);
+
+    transition: width 0.2s, height 0.2s;
+    transition-timing-function: ease;
 }
 
 #login > #img {
@@ -51,3 +54,4 @@ main {
     display: block;
     padding: 10px;
 }
+
