@@ -19,6 +19,7 @@ Desktops grandes	        1441px ou mais
 
     #login {
         width: 80vw;
+        height: 300px;
     }
 
     #login > #img {
@@ -53,6 +54,7 @@ Desktops grandes	        1441px ou mais
 
     #login {
         width: 1010px;
+        height: 350px;
     }
 
     #login >#img {
@@ -109,6 +111,7 @@ Desktops grandes	        1441px ou mais
     
     #form > p {
         font-size: 1.2em;
+        margin: 20px 0px;
     }
     
 }
